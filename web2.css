@@ -1,0 +1,21 @@
+.wrap{
+	width: 700px;
+    text-align: center;
+	margin: auto;
+	background-color: green;
+	overflow: hidden;
+}
+.content{
+	width:550px ;
+    height: 150px;
+	background-color: red;
+	float: left;
+}
+aside{
+	width: 150px;
+	background-color: brown;
+	float: left;
+}
+  .content,aside{
+  	height: 600px;
+  }
